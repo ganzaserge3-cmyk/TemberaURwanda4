@@ -2,11 +2,11 @@
   <main>
     <section
       class="relative flex min-h-screen items-center justify-center bg-cover bg-center px-6 text-white"
-      style="background-image: url('/src/assets/ganza.png');"
+      :style="{ backgroundImage: `url(${lakeKivuImage})` }"
     >
       <div class="absolute inset-0 bg-black/50"></div>
 
-      <div class="relative max-w-3xl text-center">
+      <div class="relative w-full max-w-6xl text-center">
         <p class="mb-3 text-sm font-semibold uppercase tracking-wide text-green-300">
           Visit Rwanda
         </p>
@@ -37,10 +37,14 @@
           </div>
         </div>
       </div>
+
+      <p class="absolute bottom-3 right-4 text-xs text-white/70">
+        Photo: Lake Kivu by Ivan Mucyo, CC BY-SA 4.0
+      </p>
     </section>
 
     <section class="bg-white px-6 py-16 text-green-900">
-      <div class="mx-auto max-w-5xl">
+      <div class="mx-auto w-full max-w-7xl">
         <p class="mb-3 text-sm font-semibold uppercase text-yellow-600">Explore more</p>
         <h2 class="mb-4 text-3xl font-bold">A small guide to Rwanda</h2>
         <p class="max-w-3xl leading-8 text-gray-700">
@@ -69,7 +73,7 @@
     </section>
 
     <section class="bg-green-50 px-6 py-16 text-green-900">
-      <div class="mx-auto max-w-5xl">
+      <div class="mx-auto w-full max-w-7xl">
         <p class="mb-3 text-sm font-semibold uppercase text-yellow-600">Travel moments</p>
         <h2 class="mb-8 text-3xl font-bold">Things you can enjoy</h2>
 
@@ -100,3 +104,7 @@
     </section>
   </main>
 </template>
+
+<script setup>
+import lakeKivuImage from '../assets/lake-kivu-rwanda.jpg'
+</script>

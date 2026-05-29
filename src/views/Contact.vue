@@ -1,5 +1,9 @@
 <template>
-    <section class="bg-white text-green-600 h-screen w-full mt-12">
-        <h1 class="text-5x1 font-bold py-24 text-center">This is our Contacts session, Do you need any help information </h1>
+    <section class="min-h-screen w-full bg-white px-6 py-20 text-green-600">
+        <div class="mx-auto w-full max-w-7xl">
+            <h1 class="text-center text-4xl font-bold">
+                This is our Contacts session, Do you need any help information
+            </h1>
+        </div>
     </section>
 </template>

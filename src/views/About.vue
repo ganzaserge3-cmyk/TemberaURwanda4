@@ -1,6 +1,6 @@
 <template>
   <section class="min-h-screen bg-white px-6 py-20 text-green-900">
-    <div class="mx-auto max-w-5xl">
+    <div class="mx-auto w-full max-w-7xl">
       <p class="mb-3 text-sm font-semibold uppercase text-yellow-600">About us</p>
       <h1 class="mb-5 text-4xl font-bold">Sharing the beauty of Rwanda</h1>
 
