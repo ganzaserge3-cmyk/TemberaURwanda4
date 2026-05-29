@@ -1,10 +1,10 @@
 <template>
   <section class="min-h-screen bg-white px-6 py-20 text-green-900">
-    <div class="mx-auto w-full max-w-7xl">
+    <div class="w-full">
       <p class="mb-3 text-sm font-semibold uppercase text-yellow-600">About us</p>
       <h1 class="mb-5 text-4xl font-bold">Sharing the beauty of Rwanda</h1>
 
-      <p class="max-w-3xl text-lg leading-8 text-gray-700">
+      <p class="text-lg leading-8 text-gray-700">
         We help visitors discover Rwanda through its landscapes, people, culture, and
         memorable destinations. Our goal is to make every journey feel simple,
         welcoming, and full of meaningful experiences.
@@ -81,7 +81,7 @@
 
       <div class="mt-14 rounded-lg bg-green-900 p-8 text-white">
         <h2 class="mb-3 text-3xl font-bold">Come and explore Rwanda</h2>
-        <p class="max-w-3xl leading-8 text-green-50">
+        <p class="leading-8 text-green-50">
           Whether you love nature, culture, history, or adventure, Rwanda has something
           memorable for you. We are here to help you discover it step by step.
         </p>

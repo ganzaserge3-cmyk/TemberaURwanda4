@@ -1,6 +1,6 @@
 <template>
     <nav class="bg-green-800 px-8 py-2 text-white">
-        <div class="mx-auto flex max-w-6xl items-center justify-between">
+        <div class="flex w-full items-center justify-between">
         <img src="../assets/ganza ivan.png " alt="logo" class="w-15 h-11">
 
         

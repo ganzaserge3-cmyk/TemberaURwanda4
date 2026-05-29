@@ -1,9 +1,9 @@
 <template>
     <section class="min-h-screen bg-white px-6 py-16 text-green-900">
-        <div class="mx-auto w-full max-w-7xl">
+        <div class="w-full">
             <p class="mb-3 text-sm font-semibold uppercase text-yellow-600">Gallery</p>
             <h1 class="mb-4 text-4xl font-bold">Videos</h1>
-            <p class="max-w-2xl text-lg leading-8 text-gray-700">
+            <p class="text-lg leading-8 text-gray-700">
                 Watch travel videos, destination highlights, and stories from across Rwanda.
             </p>
 

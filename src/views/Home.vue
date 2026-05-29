@@ -6,7 +6,7 @@
     >
       <div class="absolute inset-0 bg-black/50"></div>
 
-      <div class="relative w-full max-w-6xl text-center">
+      <div class="relative w-full text-center">
         <p class="mb-3 text-sm font-semibold uppercase tracking-wide text-green-300">
           Visit Rwanda
         </p>
@@ -44,10 +44,10 @@
     </section>
 
     <section class="bg-white px-6 py-16 text-green-900">
-      <div class="mx-auto w-full max-w-7xl">
+      <div class="w-full">
         <p class="mb-3 text-sm font-semibold uppercase text-yellow-600">Explore more</p>
         <h2 class="mb-4 text-3xl font-bold">A small guide to Rwanda</h2>
-        <p class="max-w-3xl leading-8 text-gray-700">
+        <p class="leading-8 text-gray-700">
           Rwanda is a beautiful country for travelers who love clean cities, green
           hills, wildlife, culture, and calm places to relax. From Kigali to the
           provinces, every place has something special to discover.
@@ -73,7 +73,7 @@
     </section>
 
     <section class="bg-green-50 px-6 py-16 text-green-900">
-      <div class="mx-auto w-full max-w-7xl">
+      <div class="w-full">
         <p class="mb-3 text-sm font-semibold uppercase text-yellow-600">Travel moments</p>
         <h2 class="mb-8 text-3xl font-bold">Things you can enjoy</h2>
 

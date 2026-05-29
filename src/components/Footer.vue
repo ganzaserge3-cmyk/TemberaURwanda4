@@ -17,7 +17,7 @@ const destinations = [
 
 <template>
     <footer class="bg-green-900 px-6 py-10 text-white">
-        <div class="mx-auto grid w-full max-w-7xl gap-8 sm:grid-cols-2 lg:grid-cols-4">
+        <div class="grid w-full gap-8 sm:grid-cols-2 lg:grid-cols-4">
             <div>
                 <h3 class="mb-3 text-lg font-bold text-yellow-300">Tembera u Rwanda</h3>
                 <p class="text-sm leading-6 text-green-100">
@@ -66,7 +66,7 @@ const destinations = [
             </div>
         </div>
 
-        <div class="mx-auto mt-8 w-full max-w-7xl border-t border-green-700 pt-4 text-center text-sm text-green-100">
+        <div class="mt-8 w-full border-t border-green-700 pt-4 text-center text-sm text-green-100">
             <p>&copy; 2026 Visit Rwanda. All rights reserved.</p>
         </div>
     </footer>
